@@ -1,0 +1,10 @@
+:root {
+    --background-color: rgba(64, 78, 92, 0.171);
+    --background-2: rgb(79, 114, 112);
+    --color: rgb(255, 255, 255);
+    --primary: #65d869;
+    --secondary: #DE9151;
+    --text-secondary: rgb(255, 255, 255);
+}
+body{  background: url(https://cutewallpaper.org/21/discord-backrounds/Quickly-remade-the-new-discord-invite-background-discordapp.jpg);
+   background-size: cover; 

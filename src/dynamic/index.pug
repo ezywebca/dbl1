@@ -1,0 +1,13 @@
+doctype html
+include includes/head.pug
+body(onload="load()")
+    include includes/nav.pug
+    #content
+        span.header
+            h1 NBBots List
+            p Helping people easily post and get recognitioned for their Discord bots, no matter the shape and size!.
+        #searchMore
+            | Would you like to 
+            a(href='/bots/search/') search all bots
+        #cards
+            span#loading Loading...
